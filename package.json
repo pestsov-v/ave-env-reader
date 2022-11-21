@@ -22,7 +22,7 @@
   "author": "Vladyslav Pestsov <pestsov.js@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pestsov-v/ave-env/issues"
+    "url": "https://github.com/pestsov-v/ave-env-reader/issues"
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
